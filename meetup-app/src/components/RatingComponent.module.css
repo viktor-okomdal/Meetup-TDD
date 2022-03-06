@@ -1,0 +1,10 @@
+.radioInput {
+  display: none;
+}
+
+.stars{
+  color: #e4e5e9;
+  cursor: pointer;
+  transition: color 200ms;
+}
+
