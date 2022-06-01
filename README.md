@@ -1,2 +1,0 @@
-# MeetUp
-Event-App
